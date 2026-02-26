@@ -1,0 +1,33 @@
+2026-02-26 22:02:55,655 [WARNING] ⚠️  You're using the placeholder Client ID!
+2026-02-26 22:02:55,655 [WARNING]    Create your own Discord app at https://discord.com/developers/applications
+2026-02-26 22:02:55,655 [WARNING]    Then set --client-id YOUR_ID or edit DISCORD_CLIENT_ID in main.py
+
+2026-02-26 22:02:55,655 [INFO] ==================================================
+2026-02-26 22:02:55,655 [INFO]   MCSR Discord Rich Presence Tracker
+2026-02-26 22:02:55,655 [INFO] ==================================================
+2026-02-26 22:02:55,655 [INFO] 📁 Minecraft directory: C:\Users\maxvm\AppData\Roaming\.minecraft
+2026-02-26 22:02:55,673 [WARNING] ⚠️  SpeedRunIGT latest_world not found yet.
+2026-02-26 22:02:55,673 [WARNING]    Make sure SpeedRunIGT mod is installed and you start a world.
+2026-02-26 22:02:55,673 [WARNING]    Expected path: C:\Users\maxvm\AppData\Roaming\.minecraft\speedrunigt\latest_world
+2026-02-26 22:02:55,868 [WARNING] ⚠️  Discord not running or connection failed: Error Code: 4000 Message: Client ID is Invalid
+2026-02-26 22:02:55,868 [INFO] 🚀 Tracker running! Open Minecraft with SpeedRunIGT to begin.
+2026-02-26 22:02:55,868 [INFO]    Press Ctrl+C to stop.
+
+2026-02-26 22:03:16,393 [INFO] 
+⏹️  Stopping tracker...
+2026-02-26 22:03:16,393 [INFO] 👋 Tracker stopped.
+2026-02-26 22:04:25,728 [WARNING] ⚠️  You're using the placeholder Client ID!
+2026-02-26 22:04:25,728 [WARNING]    Create your own Discord app at https://discord.com/developers/applications
+2026-02-26 22:04:25,728 [WARNING]    Then set --client-id YOUR_ID or edit DISCORD_CLIENT_ID in main.py
+
+2026-02-26 22:04:25,728 [INFO] ==================================================
+2026-02-26 22:04:25,728 [INFO]   MCSR Discord Rich Presence Tracker
+2026-02-26 22:04:25,728 [INFO] ==================================================
+2026-02-26 22:04:25,728 [INFO] 📁 Minecraft directory: C:\Users\maxvm\AppData\Roaming\.minecraft
+2026-02-26 22:04:25,734 [WARNING] ⚠️  SpeedRunIGT latest_world not found yet.
+2026-02-26 22:04:25,734 [WARNING]    Make sure SpeedRunIGT mod is installed and you start a world.
+2026-02-26 22:04:25,734 [WARNING]    Expected path: C:\Users\maxvm\AppData\Roaming\.minecraft\speedrunigt\latest_world
+2026-02-26 22:04:25,946 [WARNING] ⚠️  Discord not running or connection failed: Error Code: 4000 Message: Client ID is Invalid
+2026-02-26 22:04:25,946 [INFO] 🚀 Tracker running! Open Minecraft with SpeedRunIGT to begin.
+2026-02-26 22:04:25,946 [INFO]    Press Ctrl+C to stop.
+

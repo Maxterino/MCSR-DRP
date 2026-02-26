@@ -50,7 +50,7 @@ except ImportError:
 # Your Discord Application Client ID (from discord.com/developers)
 # The default below is for the public MCSR RPC app.
 # Create your own at https://discord.com/developers/applications
-DISCORD_CLIENT_ID = "1234567890123456789"  # <-- REPLACE WITH YOUR OWN CLIENT ID
+DISCORD_CLIENT_ID = "1476680258127400970"  # <-- REPLACE WITH YOUR OWN CLIENT ID
 
 # Where SpeedRunIGT writes live run data
 # Adjust if you use a custom .minecraft directory
