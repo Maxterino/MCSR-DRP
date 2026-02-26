@@ -31,3 +31,14 @@
 2026-02-26 22:04:25,946 [INFO] 🚀 Tracker running! Open Minecraft with SpeedRunIGT to begin.
 2026-02-26 22:04:25,946 [INFO]    Press Ctrl+C to stop.
 
+2026-02-26 22:05:54,040 [INFO] ==================================================
+2026-02-26 22:05:54,041 [INFO]   MCSR Discord Rich Presence Tracker
+2026-02-26 22:05:54,041 [INFO] ==================================================
+2026-02-26 22:05:54,041 [INFO] 📁 Minecraft directory: C:\Users\maxvm\AppData\Roaming\.minecraft
+2026-02-26 22:05:54,046 [WARNING] ⚠️  SpeedRunIGT latest_world not found yet.
+2026-02-26 22:05:54,046 [WARNING]    Make sure SpeedRunIGT mod is installed and you start a world.
+2026-02-26 22:05:54,046 [WARNING]    Expected path: C:\Users\maxvm\AppData\Roaming\.minecraft\speedrunigt\latest_world
+2026-02-26 22:05:54,245 [INFO] ✅ Connected to Discord RPC
+2026-02-26 22:05:54,245 [INFO] 🚀 Tracker running! Open Minecraft with SpeedRunIGT to begin.
+2026-02-26 22:05:54,246 [INFO]    Press Ctrl+C to stop.
+
